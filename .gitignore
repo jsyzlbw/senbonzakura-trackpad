@@ -1,0 +1,7 @@
+.DS_Store
+/build/
+/Assets/*.mp4
+*.mid
+*.midi
+*.app/
+*.zip
